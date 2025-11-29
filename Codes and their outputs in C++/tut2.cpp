@@ -28,7 +28,7 @@ int main()
     }
     else
     {
-        cout << "Not a prime number";
+        cout<<"Not a prime number";
     }
 
     return 0;
